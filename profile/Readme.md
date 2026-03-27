@@ -20,7 +20,7 @@ Painel Engenharia Feita em Vue
 
 - [projeto-principal-front](https://github.com/EngenhariaIndustrial-Brasal/Frontend-PainelEngenharia)
 
-### BACKTEND:
+### BACKEND:
 API que fornece dados ao painel engenharia e muitos outros Web services
 
 - [projeto-principal-back](https://github.com/EngenhariaIndustrial-Brasal/Backend-PainelEngenharia)
