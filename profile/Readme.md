@@ -7,6 +7,9 @@ Esta organização possui os repositórios dos projetos desenvolvidos pelo nosso
 ## 📖 Wiki
 
 Começe por aqui! Acesse nossa documentação, tutoriais e guia de contribuição antes de iniciar ou contribuir com novos porjetos:
+
+As Issues e quadro kanban de tarefas também são gerenciadas nesse repositório.
+
 - [Wiki da Organização](https://github.com/EngenhariaIndustrial-Brasal/Brasal-TA-Wiki)
 
 ---
