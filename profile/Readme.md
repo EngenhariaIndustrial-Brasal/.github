@@ -22,10 +22,12 @@ Conheça o principal projeto da nossa organização:
 Painel Engenharia Feita em Vue
 
 - [projeto-principal-front](https://github.com/EngenhariaIndustrial-Brasal/Frontend-PainelEngenharia)
+- [nova-versão-front Unificando dashboards](https://github.com/EngenhariaIndustrial-Brasal/frontend-dashboard-hub)
 
 ### BACKEND:
 API que fornece dados ao painel engenharia e muitos outros Web services
 
 - [projeto-principal-back](https://github.com/EngenhariaIndustrial-Brasal/Backend-PainelEngenharia)
+- [nova-versão-back Usada nas novas aplicações](https://github.com/EngenhariaIndustrial-Brasal/brasal-dashboard-back)
 
 ---
